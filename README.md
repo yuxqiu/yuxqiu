@@ -8,7 +8,6 @@
 - 🌱 I'm a [Blogger](https://blog.blinkstar.cn)📝, a Bibliophilia📕 and a Wayfarer🚶
 - 🌐 Languages: Python, C++, C, Java, Haskell
 - 😄 Pronouns: He/Him/His
-- 📄 [My CV](./cv.pdf) and [简历](./cv-ch.pdf)
 
 <br>
 
