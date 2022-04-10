@@ -1,13 +1,12 @@
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=qyxtim&show_icons=true" alt="stats" align="right" style="padding-top:20px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=qyxtim&show_icons=true&theme=onedark" alt="stats" align="right" style="padding-top:20px"/>
 </p>
 
-## Hi, I'm Tim Qiu👋
+## Hi, I'm Tim Qiu
 
 - 🔭 I'm a 1st year computer science student
-- 🌱 I'm a [Blogger](https://blog.blinkstar.cn)📝, a Bibliophilia📕 and a Wayfarer🚶
-- 🌐 Languages: Python, C++, C, Java, Haskell
-- 😄 Pronouns: He/Him/His
+- 🌱 I'm a a Bibliophilia📕 and a Wayfarer🚶
+- 🌐 Languages: Python, C++, C, Java
 
 <br>
 
