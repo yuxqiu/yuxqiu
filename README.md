@@ -1,14 +1,16 @@
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=qyxtim&show_icons=true&theme=onedark" alt="stats" align="right" style="padding-top:20px"/>
-</p>
-
-## Hi, I'm Tim Qiu
+<h1 align="center">Hi 👋, I'm Tim Qiu</h1>
 
 - 🔭 I'm a 1st year computer science student
-- 🌱 I'm a a Bibliophilia📕 and a Wayfarer🚶
-- 🌐 Languages: Python, C++, C, Java
+- 🌱 I’m currently learning **algorithms, OS and security**
+- 👨‍💻 All of my projects are available at [here](https://github.com/qyxtim?tab=repositories)
+- 📝 I regularly write articles on [my blog](https://www.blinkstar.cn)
+- 📫 **You can reach me by [email](qyxtim@qq.com)**
+- ⚡ Fun fact: I'm also a Bibliophile📕, a Wayfarer🚶 and a Rocker🤘
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qyxtim&show_icons=true&theme=onedark" alt="qyxtim" /></p>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
