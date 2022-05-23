@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/qyxtim">Tim Qiu!</a></h1>
+<h2 align="center">Hi 👋, I'm <a href="https://github.com/qyxtim">Tim Qiu!</a></h2>
 
 - 🔭 I'm a 1st year computer science student
 
@@ -18,7 +18,7 @@
 ### **Qiu's Github Stats**
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qyxtim&show_icons=true&theme=onedark&hide_title=true" alt="qyxtim" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qyxtim&show_icons=true&theme=nord&hide_title=true&hide_border=true" alt="qyxtim" />
 </div>
 
 ### **This Week I Spent My Time On**
