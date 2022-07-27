@@ -1,4 +1,4 @@
-## Hi 👋, I'm Tim Qiu!
+## Hi 👋, I'm Yuxiang Qiu!
 
 - 🔭 I'm a 1st year computer science student
 
