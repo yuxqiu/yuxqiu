@@ -14,7 +14,7 @@
 ### **Github Stats**
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qyxtim&show_icons=true&theme=nord&hide_title=true&hide_border=true" alt="qyxtim" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuxqiu&show_icons=true&theme=nord&hide_title=true&hide_border=true" alt="yuxqiu" />
 </div>
 
 ### **This Week I Spent My Time On**
