@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Yuxiang Qiu!
 
-- 🔭 I'm a 1st year computer science student
-
-- 🌱 I’m currently learning **algorithms, OS and security**
+- 🔭 I'm a 2nd year computer science student
 
 - ⚡ I'm also a Bibliophile📕, a Wayfarer🚶 and a Rocker🤘
 
