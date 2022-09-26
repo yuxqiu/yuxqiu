@@ -14,16 +14,3 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuxqiu&show_icons=true&theme=nord&hide_title=true&hide_border=true" alt="yuxqiu" />
 </div>
-
-### **This Week I Spent My Time On**
-<!--START_SECTION:waka-->
-
-```text
-C++           5 hrs 41 mins   █████████████▓░░░░░░░░░░░   54.16 %
-TeX           4 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   40.76 %
-C             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Bash          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Other         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-```
-
-<!--END_SECTION:waka-->
