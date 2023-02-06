@@ -14,8 +14,8 @@ jobs:
           # optimize svg size
           optimize: css, xml
 
-          # remove 10% from height
-          config_padding: 0, -10%
+          # adjust the padding
+          config_padding: 0, 20
 
           user: yuxqiu
           template: classic
