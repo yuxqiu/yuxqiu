@@ -14,9 +14,6 @@ jobs:
           # optimize svg size
           optimize: css, xml
 
-          # adjust the padding
-          config_padding: 0, 20
-
           user: yuxqiu
           template: classic
           base: header, activity, community, repositories, metadata
