@@ -11,8 +11,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # optimize svg size
-          optimize: css, xml
+          committer_message: "chore: update metrics"
 
           user: yuxqiu
           template: classic
