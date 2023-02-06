@@ -13,11 +13,9 @@ jobs:
 
           committer_message: "chore: update metrics"
 
-          config_padding: 0, 5%
-
           user: yuxqiu
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Europe/London
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
