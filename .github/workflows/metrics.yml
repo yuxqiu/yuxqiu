@@ -12,6 +12,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           committer_message: "chore: update metrics"
+          config_display: large
 
           user: yuxqiu
           template: classic
