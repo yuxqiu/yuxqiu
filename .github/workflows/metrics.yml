@@ -11,8 +11,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          config_display: columns
-
           # optimize svg size
           optimize: css, xml
 
