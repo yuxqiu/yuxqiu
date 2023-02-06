@@ -13,6 +13,8 @@ jobs:
 
           committer_message: "chore: update metrics"
 
+          config_padding: 0, 10%
+
           user: yuxqiu
           template: classic
           base: header, activity, community, repositories, metadata
