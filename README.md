@@ -1,8 +1,8 @@
-## Hello There 👋
+[![](https://github-stats-alpha.vercel.app/api?username=yuxqiu&cc=ffffff00&tc=777&ic=959da5&bc=ffffff00)](https://github.com/yuxqiu/)
 
-- 🔭 I'm a 2nd year computer science student
-- ⚡ I'm also a Bibliophile📕, a Wayfarer🚶 and a Rocker🤘
-- 🌱 I'm currently learning Security, OS, and Compiler
+- 📖 A 2nd year computer science student
+- 🔭 Also a part-time Bibliophile📕 and Wayfarer🚶
+- 🌱 Currently learning security, operating systems and compilers
 - 📧 Ask me about anything [here](mailto:qyxtim02@gmail.com)!
 - 😄 Pronouns: He/Him/His
 
