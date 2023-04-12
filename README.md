@@ -1,9 +1,13 @@
 [![](https://github-stats-alpha.vercel.app/api?username=yuxqiu&cc=ffffff00&tc=777&ic=959da5&bc=ffffff00)](https://github.com/yuxqiu/)
 
 - 📖 A 2nd year computer science student
+
 - 🔭 Also a part-time Bibliophile📕 and Wayfarer🚶
+
 - 🌱 Currently learning security, operating systems and compilers
+
 - 📧 Ask me about anything [here](mailto:qyxtim02@gmail.com)!
+
 - 😄 Pronouns: He/Him/His
 
 ## Languages and Tools
