@@ -2,7 +2,7 @@
 
 - 📖 A 2nd year computer science student
 
-- 🔭 Also a part-time Bibliophile📕 and Wayfarer🚶
+- 🔭 A part-time Bibliophile📕 and Wayfarer🚶
 
 - 🌱 Currently learning security, operating systems and compilers
 
