@@ -7,11 +7,11 @@
 - 📧 How to reach me: [here](mailto:qyxtim02@gmail.com)
 - 😄 Pronouns: He/Him/His
 
-I joined Github **4** years ago. Since then I pushed **1231** commits, opened **19** issues, submitted **31** pull requests, received **235** stars across **12** personal projects and contributed to **10** public repositories.
+I joined Github **4** years ago. Since then I pushed **1232** commits, opened **19** issues, submitted **31** pull requests, received **235** stars across **12** personal projects and contributed to **10** public repositories.
 
 ### Languages across my projects
 
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B191.9%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B192%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.9%25)
 ![CMake](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA3434&message=CMake%EF%B8%B10.9%25)
 ![EJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a91e50&message=EJS%EF%B8%B10.8%25)
