@@ -7,7 +7,7 @@
 - 📧 How to reach me: [here](mailto:qyxtim02@gmail.com)
 - 😄 Pronouns: He/Him/His
 
-I joined Github **4** years ago. Since then I pushed **1253** commits, opened **19** issues, submitted **31** pull requests, received **235** stars across **12** personal projects and contributed to **11** public repositories.
+I joined Github **4** years ago. Since then I pushed **1254** commits, opened **19** issues, submitted **31** pull requests, received **236** stars across **12** personal projects and contributed to **11** public repositories.
 
 ### Languages across my projects
 
