@@ -4,10 +4,9 @@
 - 🔭 a part-time Bibliophile📕 and Wayfarer🚶
 - 🌱 I'm currently learning Computer Science
 - 👯 I look forward to collaborating on OSS projects that I like!
-- 📧 How to reach me: [here](mailto:qyxtim02@gmail.com)
 - 😄 Pronouns: He/Him/His
 
-I joined Github **4** years ago. Since then I pushed **1336** commits, opened **20** issues, submitted **33** pull requests, received **240** stars across **13** personal projects and contributed to **11** public repositories.
+I joined Github **4** years ago. Since then I pushed **1337** commits, opened **20** issues, submitted **33** pull requests, received **240** stars across **13** personal projects and contributed to **11** public repositories.
 
 ### Languages across my projects
 
