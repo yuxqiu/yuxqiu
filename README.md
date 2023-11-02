@@ -6,11 +6,11 @@
 - 👯 I look forward to collaborating on OSS projects that I like!
 - 😄 Pronouns: He/Him/His
 
-I joined Github **4** years ago. Since then I pushed **1317** commits, opened **20** issues, submitted **33** pull requests, received **246** stars across **13** personal projects and contributed to **11** public repositories.
+I joined Github **4** years ago. Since then I pushed **1318** commits, opened **20** issues, submitted **33** pull requests, received **246** stars across **13** personal projects and contributed to **11** public repositories.
 
 ### Languages across my projects
 
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B191.7%25)
+![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B191.8%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B11%25)
 ![CMake](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA3434&message=CMake%EF%B8%B10.9%25)
 ![EJS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a91e50&message=EJS%EF%B8%B10.8%25)
