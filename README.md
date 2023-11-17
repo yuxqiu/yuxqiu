@@ -6,9 +6,21 @@
 - 👯 I look forward to collaborating on OSS projects that I like!
 - 😄 Pronouns: He/Him/His
 
-I joined Github **4** years ago. Since then I pushed **1339** commits, opened **20** issues, submitted **33** pull requests, received **247** stars across **13** personal projects and contributed to **11** public repositories.
+I joined Github **4** years ago. Since then I pushed **1341** commits, opened **20** issues, submitted **33** pull requests, received **247** stars across **13** personal projects and contributed to **11** public repositories.
 
-<!-- ### Skills -->
+### Languages
+
+<p float="left">
+<img src="./assets/cpp.svg" alt="cpp" width="36" />
+<img src="./assets/c.svg" alt="c" width="36" />
+<img src="./assets/py.svg" alt="python" width="36" />
+<img src="./assets/rust.svg" alt="rust" width="36" />
+<img src="./assets/java.svg" alt="java" width="36" />
+<img src="./assets/html.svg" alt="html" width="36" />
+<img src="./assets/css.svg" alt="css" width="36" />
+<img src="./assets/js.svg" alt="js" width="36" />
+<img src="./assets/haskell.svg" alt="haskell" width="36" />
+</p>
 
 ### Recent Activity
 
