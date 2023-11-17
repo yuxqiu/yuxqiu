@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="./assets/cowboy.png" alt="Cowboy Hat Face" width="25" height="25" />
 
 - 📖 I'm an undergraduate computer science student
 - 🔭 a part-time Bibliophile📕 and Wayfarer🚶
@@ -8,10 +8,8 @@
 
 I joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-### Languages across my projects
+<!-- ### Skills -->
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+### Recent Activity
 
-![yuxqiu](./assets/bottom.svg)
+<!--START_SECTION:activity-->
