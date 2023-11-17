@@ -8,7 +8,19 @@
 
 I joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-<!-- ### Skills -->
+### Languages
+
+<p float="left">
+<img src="./assets/cpp.svg" alt="cpp" width="36" />
+<img src="./assets/c.svg" alt="c" width="36" />
+<img src="./assets/py.svg" alt="python" width="36" />
+<img src="./assets/rust.svg" alt="rust" width="36" />
+<img src="./assets/java.svg" alt="java" width="36" />
+<img src="./assets/html.svg" alt="html" width="36" />
+<img src="./assets/css.svg" alt="css" width="36" />
+<img src="./assets/js.svg" alt="js" width="36" />
+<img src="./assets/haskell.svg" alt="haskell" width="36" />
+</p>
 
 ### Recent Activity
 
