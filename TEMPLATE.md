@@ -1,4 +1,4 @@
-## Hi there <img src="./assets/cowboy.png" alt="Cowboy Hat Face" width="25" height="25" />
+## Hi there <picture><img src="./assets/cowboy.png" alt="Cowboy Hat Face" width="25" height="25" /></picture>
 
 - 📖 I'm an undergraduate computer science student
 - 🔭 a part-time Bibliophile📕 and Wayfarer🚶
@@ -11,15 +11,15 @@ I joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMIT
 ### Languages
 
 <p float="left">
-<img src="./assets/cpp.svg" alt="cpp" width="36" />
-<img src="./assets/c.svg" alt="c" width="36" />
-<img src="./assets/py.svg" alt="python" width="36" />
-<img src="./assets/rust.svg" alt="rust" width="36" />
-<img src="./assets/java.svg" alt="java" width="36" />
-<img src="./assets/html.svg" alt="html" width="36" />
-<img src="./assets/css.svg" alt="css" width="36" />
-<img src="./assets/js.svg" alt="js" width="36" />
-<img src="./assets/haskell.svg" alt="haskell" width="36" />
+<picture><img src="./assets/cpp.svg" alt="cpp" width="36" /></picture>
+<picture><img src="./assets/c.svg" alt="c" width="36" /></picture>
+<picture><img src="./assets/py.svg" alt="python" width="36" /></picture>
+<picture><img src="./assets/rust.svg" alt="rust" width="36" /></picture>
+<picture><img src="./assets/java.svg" alt="java" width="36" /></picture>
+<picture><img src="./assets/html.svg" alt="html" width="36" /></picture>
+<picture><img src="./assets/css.svg" alt="css" width="36" /></picture>
+<picture><img src="./assets/js.svg" alt="js" width="36" /></picture>
+<picture><img src="./assets/haskell.svg" alt="haskell" width="36" /></picture>
 </p>
 
 ### Recent Activity
