@@ -29,5 +29,4 @@ I joined Github **5** years ago. Since then I pushed **1460** commits, opened **
 2. 💪 Opened PR [#12094](https://github.com/rust-lang/rust-clippy/pull/12094) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 3. 🗣 Commented on [#11910](https://github.com/rust-lang/rust-clippy/issues/11910#issuecomment-1877654647) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 4. 💪 Opened PR [#12084](https://github.com/rust-lang/rust-clippy/pull/12084) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
-5. 🗣 Commented on [#10393](https://github.com/rust-lang/rust-clippy/issues/10393#issuecomment-1875622639) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 <!--END_SECTION:activity-->
