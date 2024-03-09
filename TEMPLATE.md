@@ -1,8 +1,7 @@
 ## Hi there <picture><img src="./assets/cowboy.png" alt="Cowboy Hat Face" width="25" height="25" /></picture>
 
 - 📖 I'm an undergraduate computer science student
-- 🔭 a part-time Bibliophile📕 and Wayfarer🚶
-- 🌱 I'm currently learning Computer Science
+- 🔭 I'm also a part-time Bibliophile📕 and Cinephile🎬
 - 👯 I look forward to collaborating on OSS projects that I like!
 - 😄 Pronouns: He/Him/His
 
