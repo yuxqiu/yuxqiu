@@ -1,12 +1,11 @@
 ## Hi there <picture><img src="./assets/cowboy.png" alt="Cowboy Hat Face" width="25" height="25" /></picture>
 
 - 📖 I'm an undergraduate computer science student
-- 🔭 a part-time Bibliophile📕 and Wayfarer🚶
-- 🌱 I'm currently learning Computer Science
+- 🔭 I'm also a part-time Bibliophile📕 and Cinephile🎬
 - 👯 I look forward to collaborating on OSS projects that I like!
 - 😄 Pronouns: He/Him/His
 
-I joined Github **5** years ago. Since then I pushed **1461** commits, opened **21** issues, submitted **37** pull requests, received **253** stars across **13** personal projects and contributed to **8** public repositories.
+I joined Github **5** years ago. Since then I pushed **1462** commits, opened **21** issues, submitted **37** pull requests, received **253** stars across **13** personal projects and contributed to **8** public repositories.
 
 ### Languages
 
@@ -27,5 +26,4 @@ I joined Github **5** years ago. Since then I pushed **1461** commits, opened **
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11457](https://github.com/rust-lang/rust-clippy/issues/11457#issuecomment-1877712320) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 2. 💪 Opened PR [#12094](https://github.com/rust-lang/rust-clippy/pull/12094) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
-3. 🗣 Commented on [#11910](https://github.com/rust-lang/rust-clippy/issues/11910#issuecomment-1877654647) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 <!--END_SECTION:activity-->
