@@ -5,7 +5,7 @@
 - 👯 I look forward to collaborating on OSS projects that I like!
 - 😄 Pronouns: He/Him/His
 
-I joined Github **5** years ago. Since then I pushed **1463** commits, opened **21** issues, submitted **37** pull requests, received **254** stars across **13** personal projects and contributed to **7** public repositories.
+I joined Github **5** years ago. Since then I pushed **1466** commits, opened **21** issues, submitted **37** pull requests, received **255** stars across **13** personal projects and contributed to **6** public repositories.
 
 ### Languages
 
@@ -24,5 +24,6 @@ I joined Github **5** years ago. Since then I pushed **1463** commits, opened **
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11457](https://github.com/rust-lang/rust-clippy/issues/11457#issuecomment-1877712320) in [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+1. 🔒 Closed issue [#1](https://github.com/yuxqiu/srt-recognizer/issues/1) in [yuxqiu/srt-recognizer](https://github.com/yuxqiu/srt-recognizer)
+2. 🗣 Commented on [#1](https://github.com/yuxqiu/srt-recognizer/issues/1#issuecomment-2030524770) in [yuxqiu/srt-recognizer](https://github.com/yuxqiu/srt-recognizer)
 <!--END_SECTION:activity-->
