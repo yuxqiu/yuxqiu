@@ -5,7 +5,7 @@
 - 👯 I look forward to collaborating on OSS projects that I like!
 - 😄 Pronouns: He/Him/His
 
-I joined Github **5** years ago. Since then I pushed **1515** commits, opened **21** issues, submitted **38** pull requests, received **262** stars across **13** personal projects and contributed to **7** public repositories.
+I joined Github **5** years ago. Since then I pushed **1515** commits, opened **21** issues, submitted **38** pull requests, received **263** stars across **13** personal projects and contributed to **7** public repositories.
 
 ### Languages
 
