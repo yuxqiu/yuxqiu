@@ -27,5 +27,4 @@ I joined Github **5** years ago. Since then I pushed **1525** commits, opened **
 1. 💪 Opened PR [#189](https://github.com/princeton-nlp/SWE-bench/pull/189) in [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench)
 2. 💪 Opened PR [#186](https://github.com/princeton-nlp/SWE-bench/pull/186) in [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench)
 3. 🗣 Commented on [#195](https://github.com/pytorch/torcheval/pull/195#issuecomment-2101846711) in [pytorch/torcheval](https://github.com/pytorch/torcheval)
-4. 🗣 Commented on [#195](https://github.com/pytorch/torcheval/pull/195#issuecomment-2099593875) in [pytorch/torcheval](https://github.com/pytorch/torcheval)
 <!--END_SECTION:activity-->
