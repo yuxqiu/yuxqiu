@@ -1,11 +1,11 @@
 ## Hi there <picture><img src="./assets/cowboy.png" alt="Cowboy Hat Face" width="25" height="25" /></picture>
 
-- 📖 I'm a MEng computer science student
-- 🔭 I'm also a part-time Bibliophile 📕 and Cinephile 🎬
+- 📖 I'm an undergraduate computer science student
+- 🔭 I'm also a part-time Bibliophile📕 and Cinephile🎬
 - 👯 I look forward to collaborating on OSS projects that I like!
 - 😄 Pronouns: He/Him/His
 
-I joined Github **5** years ago. Since then I pushed **1549** commits, opened **21** issues, submitted **40** pull requests, received **265** stars across **14** personal projects and contributed to **7** public repositories.
+I joined Github **5** years ago. Since then I pushed **1536** commits, opened **21** issues, submitted **40** pull requests, received **265** stars across **14** personal projects and contributed to **7** public repositories.
 
 ### Languages
 
