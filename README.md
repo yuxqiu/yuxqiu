@@ -24,11 +24,12 @@ Please find me at [yuxqiu.github.io](https://yuxqiu.github.io/) for a detailed d
 
 ### Stats
 
-I joined Github **5** years ago. Since then I pushed **1545** commits, opened **21** issues, submitted **40** pull requests, received **268** stars across **14** personal projects and contributed to **6** public repositories.
+I joined Github **5** years ago. Since then I pushed **1547** commits, opened **21** issues, submitted **41** pull requests, received **268** stars across **14** personal projects and contributed to **6** public repositories.
 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#189](https://github.com/princeton-nlp/SWE-bench/pull/189) in [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench)
-2. 💪 Opened PR [#186](https://github.com/princeton-nlp/SWE-bench/pull/186) in [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench)
+1. 💪 Opened PR [#212](https://github.com/princeton-nlp/SWE-bench/pull/212) in [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench)
+2. 💪 Opened PR [#189](https://github.com/princeton-nlp/SWE-bench/pull/189) in [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench)
+3. 💪 Opened PR [#186](https://github.com/princeton-nlp/SWE-bench/pull/186) in [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench)
 <!--END_SECTION:activity-->
