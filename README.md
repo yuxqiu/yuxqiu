@@ -24,11 +24,10 @@ Please find me at [yuxqiu.github.io](https://yuxqiu.github.io/) for a detailed d
 
 ### Stats
 
-I joined Github **5** years ago. Since then I pushed **1861** commits, opened **21** issues, submitted **42** pull requests, received **275** stars across **14** personal projects and contributed to **7** public repositories.
+I joined Github **5** years ago. Since then I pushed **1863** commits, opened **21** issues, submitted **42** pull requests, received **275** stars across **14** personal projects and contributed to **7** public repositories.
 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#25](https://github.com/trailofbits/zkdocs/pull/25) in [trailofbits/zkdocs](https://github.com/trailofbits/zkdocs)
-2. 💪 Opened PR [#212](https://github.com/princeton-nlp/SWE-bench/pull/212) in [princeton-nlp/SWE-bench](https://github.com/princeton-nlp/SWE-bench)
 <!--END_SECTION:activity-->
