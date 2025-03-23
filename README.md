@@ -24,7 +24,7 @@ Please find me at [yuxqiu.github.io](https://yuxqiu.github.io/) for a detailed d
 
 ### Stats
 
-I joined Github **6** years ago. Since then I pushed **2464** commits, opened **21** issues, submitted **43** pull requests, received **284** stars across **15** personal projects and contributed to **6** public repositories.
+I joined Github **6** years ago. Since then I pushed **2480** commits, opened **21** issues, submitted **43** pull requests, received **284** stars across **15** personal projects and contributed to **6** public repositories.
 
 ### Recent Activity
 
@@ -32,5 +32,4 @@ I joined Github **6** years ago. Since then I pushed **2464** commits, opened **
 1. 💪 Opened PR [#157](https://github.com/arkworks-rs/r1cs-std/pull/157) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
 2. 🗣 Commented on [#242742](https://github.com/microsoft/vscode/issues/242742#issuecomment-2705115916) in [microsoft/vscode](https://github.com/microsoft/vscode)
 3. 🗣 Commented on [#242742](https://github.com/microsoft/vscode/issues/242742#issuecomment-2702272902) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❌ Closed PR [#25](https://github.com/trailofbits/zkdocs/pull/25) in [trailofbits/zkdocs](https://github.com/trailofbits/zkdocs)
 <!--END_SECTION:activity-->
