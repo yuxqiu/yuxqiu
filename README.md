@@ -24,11 +24,14 @@ Please find me at [yuxqiu.github.io](https://yuxqiu.github.io/) for a detailed d
 
 ### Stats
 
-I joined Github **6** years ago. Since then I pushed **2791** commits, opened **21** issues, submitted **44** pull requests, received **288** stars across **16** personal projects and contributed to **4** public repositories.
+I joined Github **6** years ago. Since then I pushed **2792** commits, opened **21** issues, submitted **44** pull requests, received **288** stars across **16** personal projects and contributed to **4** public repositories.
 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/yuxqiu/ask-ai/issues/1#issuecomment-2852693257) in [yuxqiu/ask-ai](https://github.com/yuxqiu/ask-ai)
-2. 🔒 Closed issue [#1](https://github.com/yuxqiu/ask-ai/issues/1) in [yuxqiu/ask-ai](https://github.com/yuxqiu/ask-ai)
+1. 🚀 Published release [Ask-AI v0.1.0](https://github.com/yuxqiu/ask-ai/releases/tag/0.1.0) in [yuxqiu/ask-ai](https://github.com/yuxqiu/ask-ai)
+2. 🚀 Published release [Ask-AI v0.1.0](https://github.com/yuxqiu/ask-ai/releases/tag/0.1.0) in [yuxqiu/ask-ai](https://github.com/yuxqiu/ask-ai)
+3. 🚀 Published release [Ask-AI v0.1.0](https://github.com/yuxqiu/ask-ai/releases/tag/0.1.0) in [yuxqiu/ask-ai](https://github.com/yuxqiu/ask-ai)
+4. 🚀 Published release [Ask-AI v0.1.0](https://github.com/yuxqiu/ask-ai/releases/tag/0.1.0) in [yuxqiu/ask-ai](https://github.com/yuxqiu/ask-ai)
+5. 🗣 Commented on [#1](https://github.com/yuxqiu/ask-ai/issues/1#issuecomment-2852693257) in [yuxqiu/ask-ai](https://github.com/yuxqiu/ask-ai)
 <!--END_SECTION:activity-->
