@@ -32,5 +32,4 @@ I joined Github **6** years ago. Since then I pushed **2502** commits, opened **
 1. 🗣 Commented on [#157](https://github.com/arkworks-rs/r1cs-std/pull/157#issuecomment-2953020559) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
 2. 🗣 Commented on [#157](https://github.com/arkworks-rs/r1cs-std/pull/157#issuecomment-2908157733) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
 3. 🗣 Commented on [#157](https://github.com/arkworks-rs/r1cs-std/pull/157#issuecomment-2897465384) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
-4. 💪 Opened PR [#171](https://github.com/arkworks-rs/r1cs-std/pull/171) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
 <!--END_SECTION:activity-->
