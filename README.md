@@ -24,12 +24,11 @@ Please find me at [yuxqiu.github.io](https://yuxqiu.github.io/) for a detailed d
 
 ### Stats
 
-I joined Github **6** years ago. Since then I pushed **2514** commits, opened **21** issues, submitted **45** pull requests, received **289** stars across **17** personal projects and contributed to **3** public repositories.
+I joined Github **6** years ago. Since then I pushed **2515** commits, opened **21** issues, submitted **45** pull requests, received **289** stars across **17** personal projects and contributed to **3** public repositories.
 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#157](https://github.com/arkworks-rs/r1cs-std/pull/157#issuecomment-2953020559) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
 2. 🗣 Commented on [#157](https://github.com/arkworks-rs/r1cs-std/pull/157#issuecomment-2908157733) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
-3. 🗣 Commented on [#157](https://github.com/arkworks-rs/r1cs-std/pull/157#issuecomment-2897465384) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
 <!--END_SECTION:activity-->
