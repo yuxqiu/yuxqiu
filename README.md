@@ -1,8 +1,8 @@
 ## Hi there <picture><img src="./assets/cowboy.png" alt="Cowboy Hat Face" width="25" height="25" /></picture>
 
-- 📖 I'm a MEng computer science student, a part-time Bibliophile 📕, Cinephile 🎬 and Traveller 🚀
-- 📍 I'm deeply interested in studying how systems work from the bottom up, and how secure systems can be constructed for the benefit of all.
-- 👯 I look forward to collaborating on OSS/Research projects that involve complex systems and security!
+- 📖 I'm a recent MEng CS graduate, and a part-time bibliophile 📕, cinephile 🎬, and traveler 🚀.
+- 📍 I'm deeply interested in applied cryptography, system and security.
+- 👯 I look forward to collaborating on OSS/Research projects that involve cryptography and security!
 
 ### How to reach me
 
@@ -24,7 +24,7 @@ Please find me at [yuxqiu.github.io](https://yuxqiu.github.io/) for a detailed d
 
 ### Stats
 
-I joined Github **6** years ago. Since then I pushed **2622** commits, opened **21** issues, submitted **45** pull requests, received **289** stars across **18** personal projects and contributed to **3** public repositories.
+I joined Github **6** years ago. Since then I pushed **2624** commits, opened **21** issues, submitted **45** pull requests, received **289** stars across **18** personal projects and contributed to **3** public repositories.
 
 ### Recent Activity
 
