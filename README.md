@@ -24,7 +24,7 @@ Please find me at [yuxqiu.github.io](https://yuxqiu.github.io/) for a detailed d
 
 ### Stats
 
-I joined Github **6** years ago. Since then I pushed **2872** commits, opened **21** issues, submitted **46** pull requests, received **292** stars across **18** personal projects and contributed to **2** public repositories.
+I joined Github **6** years ago. Since then I pushed **2876** commits, opened **21** issues, submitted **46** pull requests, received **292** stars across **18** personal projects and contributed to **2** public repositories.
 
 ### Recent Activity
 
