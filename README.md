@@ -24,14 +24,10 @@ Please find me at [yuxqiu.github.io](https://yuxqiu.github.io/) for a detailed d
 
 ### Stats
 
-I joined Github **6** years ago. Since then I pushed **2938** commits, opened **22** issues, submitted **46** pull requests, received **292** stars across **18** personal projects and contributed to **2** public repositories.
+I joined Github **6** years ago. Since then I pushed **2956** commits, opened **22** issues, submitted **46** pull requests, received **292** stars across **18** personal projects and contributed to **2** public repositories.
 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#187](https://github.com/arkworks-rs/r1cs-std/pull/187#issuecomment-3287121331) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
-2. ❌ Closed PR [#187](https://github.com/arkworks-rs/r1cs-std/pull/187) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
-3. 💪 Opened PR [#187](https://github.com/arkworks-rs/r1cs-std/pull/187) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
-4. 🗣 Commented on [#157](https://github.com/arkworks-rs/r1cs-std/pull/157#issuecomment-3286492739) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
-5. 🗣 Commented on [#2](https://github.com/yuxqiu/modern-poetry/issues/2#issuecomment-3286485431) in [yuxqiu/modern-poetry](https://github.com/yuxqiu/modern-poetry)
+1. ❗ Opened issue [#192](https://github.com/arkworks-rs/r1cs-std/issues/192) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
 <!--END_SECTION:activity-->
