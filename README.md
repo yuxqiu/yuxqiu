@@ -24,7 +24,7 @@ Please find me at [yuxqiu.github.io](https://yuxqiu.github.io/) for a detailed d
 
 ### Stats
 
-I joined Github **6** years ago. Since then I pushed **3005** commits, opened **23** issues, submitted **46** pull requests, received **293** stars across **18** personal projects and contributed to **3** public repositories.
+I joined Github **6** years ago. Since then I pushed **3007** commits, opened **23** issues, submitted **46** pull requests, received **293** stars across **18** personal projects and contributed to **3** public repositories.
 
 ### Recent Activity
 
@@ -33,5 +33,4 @@ I joined Github **6** years ago. Since then I pushed **3005** commits, opened **
 2. 🗣 Commented on [#484](https://github.com/AvengeMedia/DankMaterialShell/issues/484#issuecomment-3417794600) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 3.  Labeled issue [#484](https://github.com/AvengeMedia/DankMaterialShell/issues/484) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 4. ❗ Opened issue [#484](https://github.com/AvengeMedia/DankMaterialShell/issues/484) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-5. ❗ Opened issue [#192](https://github.com/arkworks-rs/r1cs-std/issues/192) in [arkworks-rs/r1cs-std](https://github.com/arkworks-rs/r1cs-std)
 <!--END_SECTION:activity-->
